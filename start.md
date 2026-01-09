@@ -1,0 +1,1 @@
+start - use pnpm run dev to start server for application
